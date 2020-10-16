@@ -15,3 +15,7 @@ How to install:
 10. hover your mouse over the pack (it has a picure of a noob)
 11. click the arrow to move it over.
 12. Enjoy!
+
+
+
+plz note i took some textures from acidicblitzz, timedeo 1.3, and zyph default. Plz note that i made the gui, blocks, and most of the buttons.
